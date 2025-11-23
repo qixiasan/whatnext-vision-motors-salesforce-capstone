@@ -16,7 +16,7 @@ A comprehensive Salesforce CRM implementation for streamlining vehicle sales ope
 - Lightning App with custom UI
 
 ## Demo Video
-[Link to your Google Drive/YouTube demo video here]
+https://drive.google.com/file/d/1nOdaV29f_aM-Hmj_P5nK5zaLc2qrS9Lt/view?usp=sharing
 
 ## Technologies Used
 - Salesforce Platform
